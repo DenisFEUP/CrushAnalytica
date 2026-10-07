@@ -2,6 +2,7 @@
 Matlab tool for analytical prediction of crash structure energy absorption
 
 Simply download all files in this repository to one folder, and run the crushApp.mlapp
+Developed on Matlab R2024b.
 
 Use of this analytical tool is free.
 
